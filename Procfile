@@ -1,0 +1,1 @@
+web: gunicorn sariqDev.wsgi --logfile -
